@@ -42,4 +42,5 @@ sudo systemctl enable locations-postgres.service
 
 /usr/sbin/waagent -force -deprovision+user && export HISTSIZE=0 && sync
 # Test the git push
+push
 
