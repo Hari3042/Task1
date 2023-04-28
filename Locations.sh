@@ -3,7 +3,7 @@
 sudo mkdir /opt/Applications
 sudo mv ~/locations-postgres.jar /opt/Applications/locations-postgres.jar
 
-# set environment variables --------test ---------       55555555555555555    90        
+# set environment variables -     
 echo 'PG_DB=postgresdb
 PG_USER=postgresuser
 PG_PASSWORD=password
